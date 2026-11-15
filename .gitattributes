@@ -1,3 +1,5 @@
+# Uiua entered Linguist master 2026-11-04 but is not in a released version yet,
+# so GitHub cannot badge it. Fall back to Python until Linguist >= v9.8 ships.
 build.sh linguist-generated=true
 test.sh linguist-generated=true
-*.ua linguist-language=Uiua
+*.ua linguist-language=Python
